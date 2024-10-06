@@ -1,1 +1,1 @@
-worker: ptyhon dataexchange.py
+worker: python dataexchange.py
